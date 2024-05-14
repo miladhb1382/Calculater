@@ -1,0 +1,25 @@
+.table {
+    border-collapse: collapse;
+    width: 29%;
+    margin: auto;
+    height: 400px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
+  
+.table-cell {
+    padding: 5px;
+    text-align: center;
+    border: 2px solid black;
+}
+.input {
+    width: 96%;
+    font-size: 42px;
+    margin: 1px auto;
+}
+.table-cell-input{
+    text-align: center;
+    border: 2px solid black;
+    padding: 2px;
+    height: 72px;
+}
